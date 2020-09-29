@@ -12,10 +12,12 @@ Reverberation Mapping (RM) is a powerful technique to map the structure and kine
 
 The goal of my captone project is to design the module that generates emission-line light curves for specific emission lines.  In RM, ionizing photons from the continuum are absorbed and re-emitted as emission-line photons by the broad-line gas.  Thus, the emission-line light curve module will use input parameters -- emission line of interest, size of the BLR, inclination angle of the BLR, and line-of-sight velocity -- to simulate a transfer function, defining the emission-line response of the BLR model to the continuum variations.  
 
-References:
+References:  
 Capak, P., Balogh, M. L., Christiansen, J. L., et al. 2019, inBulletin of the American Astronomical Society, 51, 219.  
 Peterson, B. M. 2014, Space Sci. Rev., 183, 253.  
-&nbsp;  
+&nbsp;
+
+----  
 [^1]: The _Cosmological Advanced Survey Telescope for Optical and ultraviolet Research_ is proposed to perform imaging and spectroscopic surveys in three UV-optical bands from 1350 to 5500Å.  Visit https://www.castormission.org/ for more details.  
 
 [^2]: A black hole is an extremely compact object in the universe that forms when massive stars (several tens of times more massive than our Sun) die.  It is a region where matter is squeezed into a very small volume of space, giving rise to strong gravity that even light cannot escape.  
